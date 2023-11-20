@@ -6350,6 +6350,8 @@ About Two
   font-weight: 600;
 }
 
+
+
 .about-two__content-text2-single ul li .content-box p {
   margin: 0;
 }
@@ -6412,6 +6414,14 @@ About Two
 }
 
 .about-two__content-text2-single .title-box h3 {
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
+  font-family: var(--clenq-font);
+}
+
+.about-two__content-text2-single .title-box h {
   color: #ffffff;
   font-size: 20px;
   line-height: 30px;
@@ -7503,6 +7513,12 @@ Cta Three
   color: #ffffff;
 }
 
+.cta-three__left .contact-info li .content-box h6 a {
+  color: #ffffff;
+}
+.cta-three__left .contact-info li .content-box h6 a:hover {
+  color: var(--clenq-black);
+}
 .cta-three__left .contact-info li .content-box h3 a:hover {
   color: var(--clenq-black);
 }
