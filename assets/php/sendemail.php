@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = $_POST["message"];
 
     // Set recipient email address
-    $to = "tharindudulshanfdo@gmail.com";
+    $to = "info@tasceylon.com.au";
 
     // Set email subject
     $email_subject = "New Contact Form Submission: $subject";
